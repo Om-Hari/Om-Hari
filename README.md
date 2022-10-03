@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Om
 - 👀 I’m interested in java, android, web development
-- 🌱 I’m currently learning andoid , java spring boot
+- 🌱 I’m currently javaScript
 
 
 <!---
