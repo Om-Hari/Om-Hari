@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Om
-- 👀 I’m interested in java, android, web development
-- 🌱 I’m currently javaScript
+- 👋 Hello,<hr>
+-  I’m @Om
+- 👀 I’m interested in java, web development
+- 🌱 I’m currently learning javaScript, React
 
 
 <!---
